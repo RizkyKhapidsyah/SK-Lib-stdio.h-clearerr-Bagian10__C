@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-clearerr-Bagian10__C\SK-Lib-stdio.h-clearerr-Bagian10__C\Source.c(23,18): warning C4013: 'abort' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  Finished generating code
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  SK-Lib-stdio.h-clearerr-Bagian10__C.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-clearerr-Bagian10__C\Release\SK-Lib-stdio.h-clearerr-Bagian10__C.exe
